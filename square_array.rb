@@ -4,4 +4,5 @@ def square_array(array)
     puts "#{number}"
     array2 << number **2
   end
+  return array2
 end
